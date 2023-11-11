@@ -6,7 +6,7 @@
 ### Мой стек технологий
 ![Технологии](https://github.com/Serg-Shapkin/Serg-Shapkin/assets/105888354/a46f7378-75a9-4d90-aaeb-1c69916f4e4d)
 
-### Мои проекты:
+### Реализованные проекты:
 1. [Step-treker](https://github.com/Serg-Shapkin/Step-tracker) - прототип приложения для подсчета шагов на Java Core.
 2. [Accounting](https://github.com/Serg-Shapkin/Accounting) - прототип приложения для сверки отчетов на Java Core.
 3. [Task-manager](https://github.com/Serg-Shapkin/Task-manager) - REST приложение для организации работы над задачами на основе Java Core.
