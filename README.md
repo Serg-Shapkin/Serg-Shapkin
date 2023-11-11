@@ -4,7 +4,7 @@
 - Проживаю в городе Санкт-Петербург
 
 ### Мой стек технологий
-![Технологии](https://github.com/Serg-Shapkin/Serg-Shapkin/assets/105888354/a46f7378-75a9-4d90-aaeb-1c69916f4e4d)
+![Технологии](https://github.com/Serg-Shapkin/Serg-Shapkin/assets/105888354/c10a6320-c8ee-4981-8ee6-29214324b3b9)
 
 ### Реализованные проекты:
 1. [Step-treker](https://github.com/Serg-Shapkin/Step-tracker) - прототип приложения для подсчета шагов на Java Core.
