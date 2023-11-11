@@ -3,6 +3,8 @@
 - Выпускник Яндекс Практикума по программе Java-developer
 - Проживаю в городе Санкт-Петербург
 
+### Мой стек технологий
+
 ### Мои проекты:
 1. [Step-treker](https://github.com/Serg-Shapkin/Step-tracker) - прототип приложения для подсчета шагов на Java Core.
 2. [Accounting](https://github.com/Serg-Shapkin/Accounting) - прототип приложения для сверки отчетов на Java Core.
