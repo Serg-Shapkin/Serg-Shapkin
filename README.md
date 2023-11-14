@@ -19,4 +19,4 @@
 
 ### Контакты:
 - Телеграм: [https://t.me/shapkinsa](https://t.me/shapkinsa)
-- email: [shapkinsa@gmail.com](shapkinsa@gmail.com)
+- email: shapkinsa@gmail.com
