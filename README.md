@@ -16,3 +16,7 @@
    <br> Сервис для аренды вещей.
 6. [Explore-with-me](https://github.com/Serg-Shapkin/Explore-with-me) - REST-сервис с использованием Spring Boot, Maven, Lombok, Docker Compose, Hibernate и взаимодействие с БД PostgreSQL.
    <br> Приложение - афиша. Здесь можно предложить какое-либо событие от выставки до похода в кино и собрать компанию для участия в нём.
+
+### Контакты:
+- Телеграм: [https://t.me/shapkinsa](https://t.me/shapkinsa)
+- email: [shapkinsa@gmail.com](shapkinsa@gmail.com)
