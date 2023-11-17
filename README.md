@@ -17,6 +17,9 @@
 6. [Explore-with-me](https://github.com/Serg-Shapkin/Explore-with-me) - REST-сервис с использованием Spring Boot, Maven, Lombok, Docker Compose, Hibernate и взаимодействие с БД PostgreSQL.
    <br> Приложение - афиша. Здесь можно предложить какое-либо событие от выставки до похода в кино и собрать компанию для участия в нём.
 
+### Выполненные тестовые задания:
+1. [Cuonting](https://github.com/Serg-Shapkin/Counting) - REST API-приложение для подсчета количества символов в строке.
+
 ### Контакты:
 - Телеграм: [https://t.me/shapkinsa](https://t.me/shapkinsa)
 - email: shapkinsa@gmail.com
