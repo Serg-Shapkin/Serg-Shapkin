@@ -20,6 +20,9 @@
 ### Выполненные тестовые задания:
 1. [Counting](https://github.com/Serg-Shapkin/Counting) - REST API-приложение для подсчета количества символов в строке.
 
+### Выполненные домашние задания Aston:
+1. [ArrayList & LinkedList](https://github.com/Serg-Shapkin/Customized-lists) - реализация собственного ArrayList и LinkedList.
+
 ### Контакты:
 - Телеграм: [https://t.me/shapkinsa](https://t.me/shapkinsa)
 - email: shapkinsa@gmail.com
