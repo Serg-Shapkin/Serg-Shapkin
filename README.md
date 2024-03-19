@@ -22,6 +22,7 @@
 
 ### Выполненные домашние задания Aston:
 1. [ArrayList & LinkedList](https://github.com/Serg-Shapkin/Customized-lists) - реализация собственного ArrayList и LinkedList.
+2. [Books](https://github.com/Serg-Shapkin/Books) - REST-сервис с основными CRUD операциями.
 
 ### Контакты:
 - Телеграм: [https://t.me/shapkinsa](https://t.me/shapkinsa)
